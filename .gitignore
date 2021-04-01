@@ -1,0 +1,8 @@
+json_lsp.egg-info/*
+test/__pycache__/*
+json_lsp/__pycache__/*
+.pytest_cache/*
+build/*
+dist/*
+.coverage
+node_modules/*

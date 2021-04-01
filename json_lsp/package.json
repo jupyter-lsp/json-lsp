@@ -1,0 +1,13 @@
+{
+  "name": "json-lsp",
+  "version": "1.0.0",
+  "description": "JSON language server wrapper",
+  "main": "index.js",
+  "repository": "https://github.com/martinRenou/json-lsp",
+  "author": "Martin Renou",
+  "license": "BSD 3-Clause",
+  "private": true,
+  "dependencies": {
+    "vscode-json-languageserver-bin": "^1.0.1"
+  }
+}
