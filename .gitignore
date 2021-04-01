@@ -5,4 +5,4 @@ json_lsp/__pycache__/*
 build/*
 dist/*
 .coverage
-node_modules/*
+json_lsp/node_modules/*
