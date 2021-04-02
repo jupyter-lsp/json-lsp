@@ -2,3 +2,4 @@ include json_lsp/package.json
 include json_lsp/yarn.lock
 recursive-include json_lsp/node_modules **
 include LICENSE
+include setup.cfg
