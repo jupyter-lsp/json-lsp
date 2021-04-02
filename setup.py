@@ -18,9 +18,10 @@ setup(
     install_requires=[],
     include_package_data=True,
     entry_points={
-        "jupyter_lsp_spec_v1": [
-            "json-language-server = json_lsp.main:load"
-        ]
+        'jupyter_lsp_spec_v1': [
+            'json-language-server = json_lsp.main:load'
+        ],
+        'console_scripts': ['json-lsp = json_lsp.main:main'],
     },
     platforms=['any'],
     classifiers=[
