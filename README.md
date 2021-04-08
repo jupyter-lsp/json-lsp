@@ -2,7 +2,7 @@
 
 JSON language server for JupyterLab
 
-## Installation (coming soon)
+## Installation
 
 ```bash
 conda install -c conda-forge jupyterlab jupyterlab-lsp json-lsp
